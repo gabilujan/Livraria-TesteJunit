@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Controle.ReaComTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.817 s <<< FAILURE! - in Controle.ReaComTest
+testExcluirButtonActionPerformed  Time elapsed: 1.811 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <> but was: <1>
+	at Controle.ReaComTest.testExcluirButtonActionPerformed(ReaComTest.java:81)
+

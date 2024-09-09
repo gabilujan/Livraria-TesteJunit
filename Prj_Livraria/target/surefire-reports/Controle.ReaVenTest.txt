@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Controle.ReaVenTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.494 s <<< FAILURE! - in Controle.ReaVenTest
+testCreateVenda  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeUpdate(String)" because "this.reaVen.con_cliente.statement" is null
+	at Controle.ReaVenTest.setup(ReaVenTest.java:33)
+

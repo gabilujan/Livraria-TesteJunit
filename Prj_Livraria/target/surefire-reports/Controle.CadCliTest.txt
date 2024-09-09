@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Controle.CadCliTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.828 s <<< FAILURE! - in Controle.CadCliTest
+testUpdateClient  Time elapsed: 1.823 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: O cliente deve estar presente no banco de dados ==> expected: <true> but was: <false>
+	at Controle.CadCliTest.testUpdateClient(CadCliTest.java:58)
+
